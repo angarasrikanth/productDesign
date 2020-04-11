@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "product": "Shoe",
+            "img": "https://www.freepngimg.com/thumb/shoes/24660-3-shoes-transparent-image.png",
+            "price": "1297"
+        },
+        {
+            "product": "Watch",
+            "img": "http://www.pngmart.com/files/6/Watch-PNG-Transparent-Image.png",
+            "price": "1984"
+        },
+        {
+            "product": "Bag",
+            "img": "https://pluspng.com/img-png/png-school-bag-school-bag-png-transparent-image-500.png",
+            "price": "534"
+        }
+    ]
+}
